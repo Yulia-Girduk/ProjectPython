@@ -1,6 +1,6 @@
 import text
-from model import model
-from view import view
+import model
+import view
 
 
 def start():
